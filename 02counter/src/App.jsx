@@ -6,6 +6,7 @@ import './App.css'
 function App() {
 
   // 0=>counter 1=>function
+  // 0 1 are index
  let [counter, setCounter]= useState(15)
   // let counter=5
   const addValue = ()=>{
